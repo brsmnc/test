@@ -1,2 +1,3 @@
 Baris tarafindan eklendi.
 Baris tarafindan bu commit girildi.
+Baris tarafindan ikinci commit girildi.
