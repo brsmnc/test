@@ -3,3 +3,4 @@ Baris tarafindan bu commit girildi.
 Baris tarafindan ikinci commit girildi.
 oguz tarafindan ucuncu commit girildi.
 Baris ucuncu commit girdi.
+Revision güncellemesi için [git tag -a "RevA" -m "Revision A"] girildi.
